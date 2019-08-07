@@ -8,28 +8,6 @@ export const resume_data = {
         'title': 'About Me',
         'text': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dictum velit nec est luctus suscipit. Cras sit amet metus sit amet enim eleifend bibendum. Maecenas rhoncus feugiat nisi, fringilla dapibus diam feugiat et. Duis lectus ante, imperdiet et felis vel, consectetur vestibulum lorem. Sed porttitor tortor non volutpat vestibulum. Fusce consequat cursus eros, at auctor urna. Integer et egestas purus. Cras tristique eget est egestas tempor. Donec hendrerit molestie faucibus. Maecenas aliquam, quam eu pulvinar feugiat, est nisl scelerisque erat, a maximus nisl elit eget neque. Donec non aliquet neque. Curabitur molestie rhoncus elementum. Sed quam mi, maximus in velit tempor, feugiat porttitor erat.'
     },
-    "portfolio": [
-        {
-            "name": "project1",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg"
-        },
-        {
-            "name": "project2",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/project.jpg"
-        },
-        {
-            "name": "project3",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/project2.png"
-        },
-        {
-            "name": "project4",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg"
-        }
-    ],
     "education": [
         {
             "school": "École Polytechnique de Montréal",
